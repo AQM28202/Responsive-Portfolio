@@ -184,6 +184,7 @@ h3, h2 {
 
 #contact-form li {
   margin-bottom: 10px;
+  list-style: none
 }
 
 label,
@@ -261,5 +262,8 @@ nav {
   margin: 20px 0 25px;
   overflow: auto;
 }
-
+#contact-form ul {
+  width: 100%;
+  margin-bottom: 20px;  
+}
 }
