@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background-color: #cccccc
 }
 
 * {
@@ -214,4 +214,11 @@ input[type=submit] {
   cursor: pointer;
   background: #4aaaa5;
   border: 0 none;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    color: #4aaaa5;
+    background-color: #4aaaa5;
+  }
 }
