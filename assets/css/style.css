@@ -216,6 +216,19 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+@media screen and (max-width: 980px) {
+  .container{
+    width: 900px;
+  }
+  .main-section {
+    margin: 0 0 400px;
+  }
+  .main-section {
+    margin: 0 0 200px;
+    width: 700px;
+  }
+
 @media screen and (max-width: 768px) {
   .container{
     width: 700px;
@@ -278,4 +291,4 @@ nav {
   width: 100%;
   margin-bottom: 20px;  
 }
-}
+  }
