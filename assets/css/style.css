@@ -41,7 +41,7 @@ p {
     background: transparent;
   }
   .jumbotron {
-    background-image: url('assets/images/codingwallpaper.jpeg');
+    background-image: url('https://aqm28202.github.io/Responsive-Portfolio/assets/images/codingwallpaper.jpeg');
     background-size: cover; 
     height: 350px;
   }
